@@ -11,3 +11,5 @@ venv/
 
 # Logs
 *.log
+
+data/*.dbdata/*.db
